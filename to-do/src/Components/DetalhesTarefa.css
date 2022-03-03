@@ -1,0 +1,19 @@
+.Detalhes{
+    background: #555;
+    margin: 15px 0;
+    padding: 15px 20px;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.Detalhes h2{
+    margin-bottom: 5px;
+    color: #ff1493;
+}
+
+.buttonVoltar{
+    width: 30%;
+    margin-top: 10px;
+}

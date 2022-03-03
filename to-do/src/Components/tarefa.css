@@ -1,0 +1,29 @@
+.tContainer{
+    background-color: #555;
+    margin: 8px 0;
+    padding: 15px 20px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+}
+
+.titulos{
+    cursor: pointer;
+}
+
+.removerTarefa{
+    background-color: #555;
+    border: none;
+    font-size: 18px;
+    color: #ff1493;
+    cursor: pointer;
+}
+.detalhaTarefa{
+    background-color: #555;
+    border: none;
+    font-size: 18px;
+    color: #ff1493;
+    cursor: pointer;
+}
